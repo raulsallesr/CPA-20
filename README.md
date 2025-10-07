@@ -10,10 +10,13 @@ Total estimado: ~20h → 8 semanas de estudo confortável
 
 📚 Curso Escolhido
 "Preparatório Certificação CPA-20"
+
 link: https://www.udemy.com/course/atualizado-2024-certificacao-cpa-20-lucio-j-benfica-cea/?couponCode=2021PM25
+
 9 módulos • 74 aulas
 +500 questões comentadas
 Total aproximado: 9h19min
+
 | Módulo                                          | Aulas | Duração |
 | ----------------------------------------------- | ----- | ------- |
 | M1 – SFN e Participantes do Mercado             | 13    | 1h15    |
