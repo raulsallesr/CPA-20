@@ -27,6 +27,8 @@ Conjunto de Instituições/Regulamentos que cuidam do sistema financeiro do BR /
 ## Funções
 1. Adequar o Volume de meios de pagamento às necessidades de Economia -- criação do Pix, controlar moeda circulando
 2. Regular o Valor da Moeda -- Inflação
-3. Prezar pela liquidez das IFs > para nenhum banco quebrar
+3. Prezar pela liquidez das IFs -- para nenhum banco quebrar
 4. Coordenar as Politicas de Crédito, dívida e fiscal
-5. 
+5. Autorizar Emissão de Papel Moeda -- BCB que emite
+
+---
