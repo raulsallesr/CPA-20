@@ -28,81 +28,131 @@ graph TD
     J --> K(Entidades Fechadas de Previdência)
 ```
 
----
-
-# CMN - Conselho Monetário Nacional
-> Orgão Normativo - atua na criação de Normas/Leis..
-É o orgão Superior - *Formula* a política da Moeda/Crédito - para Estabiliade e Desenvolvimento Econômico
-
-## Composição
-- **Ministro de Estado da Fazenda** -- Presidente do País que escolhe
-- **Presidente do Banco Central** -- Formula políticas
-- **Ministro de Estado e Planejamento e Orçamento** -- Define metas/estratégias
-
-## Função do CMN
-1. Adequar o Volume de meios de pagamento às necessidades de Economia -- criação do Pix, controlar moeda circulando
-2. Regular o Valor da Moeda -- Inflação
-3. Prezar pela liquidez das IFs -- para nenhum banco quebrar
-4. Coordenar as Politicas de Crédito, dívida e fiscal
-5. Autorizar Emissão de Papel Moeda -- BCB que emite
-6. Defini Inflação
+O CMN é o órgão máximo e normativo — cria as regras.
+Os demais (BACEN, CVM, SUSEP, PREVIC) são executores e fiscalizadores.
 
 ---
 
-# Bacen - Banco Central
-> *Fiscalizador* - Braço direito do CMN
+# 🏦 CMN - Conselho Monetário Nacional
+> **Órgão Normativo Supremo** — define as diretrizes gerais da política monetária, creditícia e cambial do Brasil.
 
-## Função do BACEN
-1. Fiscaliza as IFs
-2. Coordena as políticas economicaas, fiscais e contabeis
-3. Emitir moeda
+### 👥 Composição
+* **Ministro da Fazenda** → Lula que escolhe
+* **Presidente do Banco Central**
+* **Ministro do Planejamento e Orçamento**
 
-## Composição
-1. Presidente do BACEN;
-+ 8 Diretores ()
+### ⚙️ Principais Funções
 
-## Autonomia do BACEN
-BACEN deixou de ser vinculada ao Gov e virou autonoma lei 179/2021 -- pelo Bolsonaro
+1. Controlar o **volume de moeda** em circulação.
+2. Regular o **valor da moeda** e combater a **inflação**.
+3. Zelar pela **liquidez e solvência** das instituições financeiras. -- para nenhum banco quebrar e ferrar o brasil
+4. Coordenar **políticas de crédito, cambial e fiscal**.
+5. **Autorizar emissão de papel-moeda** (executada pelo BACEN).
+6. Estabelecer **metas de inflação** e políticas macroeconômicas.
 
 ---
 
-# CVM - Comissão de Valores Mobiliários
-> *Fiscalizador* - Mercado de Valores Moboliários 
+# 🪙 BACEN - Banco Central do Brasil
 
-## Função do CVM
-1. Implementar Diretrizes e Normas do Mercado de Valores Mobiliários
+> **Órgão Executor e Fiscalizador** — braço direito do CMN.
+
+### ⚙️ Funções Principais
+
+1. **Executar políticas** monetárias, cambiais e de crédito definidas pelo CMN.
+2. **Emitir moeda** e controlar o meio circulante.
+3. **Fiscalizar instituições financeiras**.
+4. **Regular o sistema de pagamentos** (como o **Pix**).
+5. **Controlar reservas internacionais** e a taxa de juros básica (**Selic**).
+
+### 🧩 Estrutura
+
+* **Presidente do BACEN**
+* **8 Diretores**
+
+### 🆓 Autonomia do BACEN
+
+* Tornou-se **autônomo** pela **Lei Complementar nº 179/2021**, durante o governo Bolsonaro.
+* Mandato fixo e não coincidente com o do Presidente da República → maior estabilidade institucional.
+
+---
+
+# 📈 CVM - Comissão de Valores Mobiliários
+
+> **Órgão Fiscalizador** do mercado de capitais (ações, fundos, bolsa).
+
+### ⚙️ Funções
+
+1. Implementar normas e diretrizes do mercado de valores mobiliários.
 2. Fiscalizar:
-   - *Corretoras* (XP, RICO...);
-   - *B3*;
-   - empresas *S.A* (listadas na Bolsa);
-   - *Fundos de Investimento*
+
+   * **Corretoras** (ex: XP, Rico)
+   * **Bolsas de Valores** (ex: B3)
+   * **Companhias abertas** (S.A listadas)
+   * **Fundos de investimento**
+3. Proteger o investidor e garantir transparência no mercado.
 
 ---
 
-# SUSEP - Superintendencia de Seguros Privados
-> *Fiscalizador*
+# 🛡️ SUSEP - Superintendência de Seguros Privados
 
-## Função da SUSEP
-1. Controle e Fiscalização do mercado de Seguro, Previdencia Privada ABERTA, Capitalização e Resseguro
-2. Ficaliza:
-  - Seguradoras
+> **Órgão Fiscalizador** do mercado de seguros, previdência aberta e capitalização.
 
-## CNSP
-- SUSEP é ligada ao CNSP, orgao que cria as normas sobre POlítica de Seguros Privados -> SUSEP fiscaliza
+### ⚙️ Funções
 
-*CNSP* cria uma lei falando que os seguros de vida precisam cobrir caso de morte de COVID
-Quem fiscaliza se as seguradoras estão fazendo mesmo é a *SUSEP*
+1. Fiscalizar e controlar:
+
+   * **Seguradoras**
+   * **Entidades de previdência privada aberta**
+   * **Empresas de capitalização**
+   * **Resseguradoras**
+2. Garantir o cumprimento das normas definidas pelo **CNSP** (Conselho Nacional de Seguros Privados).
+
+💡 *Exemplo:*
+O CNSP determina que seguros de vida devem cobrir casos de morte por COVID.
+A SUSEP verifica se as seguradoras estão realmente cumprindo.
 
 ---
 
-# PREVIC - Superintendencia Nacional de Previdência Complementar
-> *Fiscalizador*
+# 🧓 PREVIC - Superintendência Nacional de Previdência Complementar
 
-## Função
-- Fiscalizar as entidades de Previdencia Fechadas
+> **Órgão Fiscalizador** das **entidades de previdência complementar fechada** (fundos de pensão).
 
-Exemplo.
-A previdencia da Deloitte, que é exclusiva para os colaboradores da DTT, vai ser fiscalizada pela PREVIC
+### ⚙️ Funções
 
-## CNPC -- não cai na prova
-- PREVIC é ligada ao CNPC, orgão que cria as normas -> PREVIC fiscaliza
+* Fiscalizar e supervisionar **fundos de previdência fechados**, geralmente vinculados a empresas.
+
+  > Exemplo: fundo de previdência da **Deloitte**, exclusivo para colaboradores, é supervisionado pela **PREVIC**.
+
+### 🧠 Ligação
+
+* A **PREVIC** atua sob normas do **CNPC** (Conselho Nacional de Previdência Complementar).
+  *— CNPC não costuma cair em prova.*
+
+---
+
+# 🧭 Resumo Geral
+
+| Tipo de Órgão               | Instituição | Função Principal                                          | Subordinação    |
+| --------------------------- | ----------- | --------------------------------------------------------- | --------------- |
+| **Normativo**               | CMN         | Cria regras e diretrizes do sistema                       | Governo Federal |
+| **Executor / Fiscalizador** | BACEN       | Política monetária, emissão de moeda, fiscalização de IFs | CMN             |
+| **Executor / Fiscalizador** | CVM         | Fiscaliza mercado de capitais                             | CMN             |
+| **Executor / Fiscalizador** | SUSEP       | Fiscaliza seguros, previdência aberta e capitalização     | CNSP            |
+| **Executor / Fiscalizador** | PREVIC      | Fiscaliza previdência complementar fechada                | CNPC            |
+
+---
+
+> 💡 **Dica para prova CPA-20:**
+> CMN **cria as normas**, os demais **executam e fiscalizam**.
+> Lembrar:
+>
+> * **CMN = cérebro** 🧠
+> * **BACEN = mãos** 🤲
+> * **CVM = olhos da Bolsa** 👁️
+> * **SUSEP = guarda-chuva dos seguros** ☂️
+> * **PREVIC = previdência fechada** 👴
+
+---
+
+[🔝 Voltar ao topo](#💰-sistema-financeiro-nacional-sfn)
+
