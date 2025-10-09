@@ -1,7 +1,7 @@
 # SFN - Sistema Financeiro Nacional
 Conjunto de Instituições/Regulamentos que cuidam do sistema financeiro do BR // $ do País -- Bancos, Bolsas
 
-## Objetivo do SFN:
+## Função do SFN:
 1 - **Estabilidade Financeira** -- protegendo o interesse dos investidores
 2 - **Promove Desenvolvimento Econômico** -- Fomenta o crescimento do Pais, moeda, e bolsa -- sem se perder na inflação
 3 - **Inclusão Financeira** -- Programas específicos para grupos/regiões mais debilitadas
@@ -24,7 +24,7 @@ Conjunto de Instituições/Regulamentos que cuidam do sistema financeiro do BR /
 - **Presidente do Banco Central** -- Formula políticas
 - **Ministro de Estado e Planejamento e Orçamento** -- Define metas/estratégias
 
-## Funções
+## Função do CMN
 1. Adequar o Volume de meios de pagamento às necessidades de Economia -- criação do Pix, controlar moeda circulando
 2. Regular o Valor da Moeda -- Inflação
 3. Prezar pela liquidez das IFs -- para nenhum banco quebrar
@@ -37,7 +37,7 @@ Conjunto de Instituições/Regulamentos que cuidam do sistema financeiro do BR /
 # Bacen - Banco Central
 > *Fiscalizador* - Braço direito do CMN
 
-## Funções
+## Função do BACEN
 1. Fiscaliza as IFs
 2. Coordena as políticas economicaas, fiscais e contabeis
 3. Emitir moeda
@@ -52,12 +52,28 @@ BACEN deixou de ser vinculada ao Gov e virou autonoma lei 179/2021 -- pelo Bolso
 ---
 
 # CVM - Comissão de Valores Mobiliários
-> *Fiscalizador* - Mercado de Valores Moboliários -- 
+> *Fiscalizador* - Mercado de Valores Moboliários 
 
-## Função
+## Função do CVM
 1. Implementar Diretrizes e Normas do Mercado de Valores Mobiliários
 2. Fiscalizar:
    - *Corretoras* (XP, RICO...);
    - *B3*;
    - empresas *S.A* (listadas na Bolsa);
    - *Fundos de Investimento*
+
+---
+
+# SUSEP - Superintendencia de Seguros Privados
+> *Fiscalizador*
+
+## Função da SUSEP
+1. Controle e Fiscalização do mercado de Seguro, Previdencia Privada ABERTA, Capitalização e Resseguro
+2. Ficaliza:
+  - Seguradoras
+
+## CNSP
+- SUSEP é ligada ao CNSP, orgao que cria as normas sobre POlítica de Seguros Privados
+
+*CNSP* cria uma lei falando que os seguros de vida precisam cobrir caso de morte de COVID
+Quem fiscaliza se as seguradoras estão fazendo mesmo é a *SUSEP*
