@@ -30,5 +30,34 @@ Conjunto de Instituições/Regulamentos que cuidam do sistema financeiro do BR /
 3. Prezar pela liquidez das IFs -- para nenhum banco quebrar
 4. Coordenar as Politicas de Crédito, dívida e fiscal
 5. Autorizar Emissão de Papel Moeda -- BCB que emite
+6. Defini Inflação
 
 ---
+
+# Bacen - Banco Central
+> *Fiscalizador* - Braço direito do CMN
+
+## Funções
+1. Fiscaliza as IFs
+2. Coordena as políticas economicaas, fiscais e contabeis
+3. Emitir moeda
+
+## Composição
+1. Presidente do BACEN;
++ 8 Diretores ()
+
+## Autonomia do BACEN
+BACEN deixou de ser vinculada ao Gov e virou autonoma lei 179/2021 -- pelo Bolsonaro
+
+---
+
+# CVM - Comissão de Valores Mobiliários
+> *Fiscalizador* - Mercado de Valores Moboliários -- 
+
+## Função
+1. Implementar Diretrizes e Normas do Mercado de Valores Mobiliários
+2. Fiscalizar:
+   - *Corretoras* (XP, RICO...);
+   - *B3*;
+   - empresas *S.A* (listadas na Bolsa);
+   - *Fundos de Investimento*
