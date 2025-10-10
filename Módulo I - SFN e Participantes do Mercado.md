@@ -1,37 +1,10 @@
-# 🎓 Estudo para CPA-20 — Raul Rolim
----
 
-## 🗂️ Índice Geral
-
-| Módulo | Tema | Status |
-|--------|------|--------|
-| [1️⃣](#💰-módulo-1---sistema-financeiro-nacional-sfn) | Sistema Financeiro Nacional (SFN) | ✅ Concluído |
-| 2️⃣ | Instrumentos de Renda Fixa | ⏳ Em andamento |
-| 3️⃣ | Renda Variável e Fundos | 🔜 A iniciar |
-| 4️⃣ | Derivativos e Produtos Estruturados | 🔜 A iniciar |
-| 5️⃣ | Gestão de Risco e Compliance | 🔜 A iniciar |
-| 6️⃣ | Ética, PLD e Suitability | 🔜 A iniciar |
-
----
-
-## 📈 Progresso Atual
-
-```mermaid
-pie
-    title Progresso de Estudos CPA-20
-    "Módulo 1 - SFN" : 20
-    "Módulo 2 - Renda Fixa" : 10
-    "Módulo 3 - Renda Variável" : 0
-    "Módulo 4 - Derivativos" : 0
-    "Módulo 5 - Risco / Compliance" : 0
-    "Módulo 6 - Ética e Suitability" : 0
-```
-
+````markdown
 # 💰 Sistema Financeiro Nacional (SFN)
 
 O **SFN** é o conjunto de **instituições e regulamentos** que organizam, fiscalizam e garantem o funcionamento do sistema financeiro brasileiro.  
 👉 Ele movimenta e protege o dinheiro do país — **bancos, bolsas, seguradoras e previdências** fazem parte.
-
+````
 ---
 
 ## 🎯 Funções do SFN
@@ -55,18 +28,20 @@ graph TD
     H --> I(Seguradoras)
     B --> J(PREVIC - Previdência Complementar)
     J --> K(Entidades Fechadas de Previdência)
-```
+````
 
-O CMN é o órgão máximo e normativo — cria as regras.
-Os demais (BACEN, CVM, SUSEP, PREVIC) são executores e fiscalizadores.
+📘 O **CMN** é o órgão **máximo e normativo** — cria as regras.
+📗 Os demais (**BACEN**, **CVM**, **SUSEP**, **PREVIC**) são **executores e fiscalizadores**.
 
 ---
 
 # 🏦 CMN - Conselho Monetário Nacional
+
 > **Órgão Normativo Supremo** — define as diretrizes gerais da política monetária, creditícia e cambial do Brasil.
 
 ### 👥 Composição
-* **Ministro da Fazenda** → Lula que escolhe
+
+* **Ministro da Fazenda** → preside o CMN
 * **Presidente do Banco Central**
 * **Ministro do Planejamento e Orçamento**
 
@@ -74,7 +49,7 @@ Os demais (BACEN, CVM, SUSEP, PREVIC) são executores e fiscalizadores.
 
 1. Controlar o **volume de moeda** em circulação.
 2. Regular o **valor da moeda** e combater a **inflação**.
-3. Zelar pela **liquidez e solvência** das instituições financeiras. -- para nenhum banco quebrar e ferrar o brasil
+3. Zelar pela **liquidez e solvência** das instituições financeiras.
 4. Coordenar **políticas de crédito, cambial e fiscal**.
 5. **Autorizar emissão de papel-moeda** (executada pelo BACEN).
 6. Estabelecer **metas de inflação** e políticas macroeconômicas.
@@ -83,7 +58,7 @@ Os demais (BACEN, CVM, SUSEP, PREVIC) são executores e fiscalizadores.
 
 # 🪙 BACEN - Banco Central do Brasil
 
-> **Órgão Executor e Fiscalizador** — braço direito do CMN.
+> **Órgão Executor e Fiscalizador** — braço operacional do CMN.
 
 ### ⚙️ Funções Principais
 
@@ -159,99 +134,113 @@ A SUSEP verifica se as seguradoras estão realmente cumprindo.
 
 ---
 
+# 📊 ANBIMA - Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais
+
+> **Entidade autorreguladora** do mercado financeiro brasileiro.
+
+### 🧩 O que é a ANBIMA?
+
+* Associação que **cria normas complementares** para instituições associadas.
+* Bancos e corretoras que se associam **devem seguir essas normas**.
+* Garante **qualidade e transparência** no mercado.
+
+💡 *Exemplo:*
+A ANBIMA exige que **analistas e gerentes de investimento** tenham **CPA-10 ou CPA-20**.
+Assim, assegura **padrão de qualidade e ética** no atendimento.
+
+---
+
+### ⚙️ Funções da ANBIMA
+
+1. **Representa** – defende o setor financeiro perante o governo e órgãos reguladores.
+2. **Autorregula** – cria códigos e normas próprias para seus associados.
+3. **Informa** – divulga dados, relatórios e estudos sobre o mercado.
+4. **Educa** – promove certificações (CPA-10, CPA-20, CEA...) e cursos.
+
+---
+
+### 📜 Códigos ANBIMA
+
+1. **Código de Distribuição de Produtos de Investimento**
+2. **Código de Administração de Recursos de Terceiros**
+3. **Código de Ética**
+4. **Código de Certificação**
+
+---
+
+# 🏦 Bancos Múltiplos
+
+> **Instituições Financeiras** que oferecem diversos tipos de produtos e serviços financeiros.
+
+### 💡 Conceito
+
+Um **banco múltiplo** é aquele que possui **duas ou mais carteiras** de operação.
+Ex: um banco pode ter **carteira comercial** + **carteira de investimento**.
+
+---
+
+### 🧾 Carteiras Possíveis
+
+| Tipo de Carteira                                | Descrição                                                        | Exemplos / Observações                          |
+| ----------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------- |
+| **Comercial**                                   | Abertura de conta corrente e operações de crédito de curto prazo | Ex: Itaú, Bradesco                              |
+| **Investimento / Desenvolvimento**              | Administração de fundos de investimento e crédito de longo prazo | Ex: BNDES, Banco do Nordeste                    |
+| **Leasing**                                     | Arrendamento de bens móveis (como carros e motos)                | Bem fica no nome do banco até o fim do contrato |
+| **Crédito, Financiamento e Investimento (CFI)** | Financia bens e serviços em geral                                | Atuação ampla em crédito                        |
+| **Crédito Imobiliário**                         | Financiamento habitacional e contas poupança                     | Ex: Caixa Econômica Federal                     |
+
+---
+
+### 🧱 Requisitos para ser Banco Múltiplo
+
+1. Ter **pelo menos duas carteiras**.
+2. Uma delas deve ser **Comercial** ou **de Investimento**.
+
+---
+
+# 🤝 Cooperativas de Crédito
+
+> **Instituições Financeiras Sem Fins Lucrativos**, formadas por pessoas com objetivos econômicos e sociais em comum.
+
+### 💡 Conceito
+
+* Os **associados são donos e clientes**.
+* O **lucro é dividido** entre os membros.
+* Oferecem **juros menores** e **crédito acessível**.
+
+---
+
+### 🌱 Princípios das Cooperativas
+
+| Princípio                     | Descrição                                                             |
+| ----------------------------- | --------------------------------------------------------------------- |
+| **Democracia Participativa**  | Cada associado tem **direito a um voto**.                             |
+| **Educação Cooperativista**   | Estímulo ao **senso de poupança e responsabilidade financeira**.      |
+| **Autonomia e Solidariedade** | Ajuda mútua e cooperação entre membros.                               |
+| **Desenvolvimento Local**     | Retém recursos na região, **fortalecendo o crescimento sustentável**. |
+
+---
+
 # 🧭 Resumo Geral
 
-| Tipo de Órgão               | Instituição | Função Principal                                          | Subordinação    |
-| --------------------------- | ----------- | --------------------------------------------------------- | --------------- |
-| **Normativo**               | CMN         | Cria regras e diretrizes do sistema                       | Governo Federal |
-| **Executor / Fiscalizador** | BACEN       | Política monetária, emissão de moeda, fiscalização de IFs | CMN             |
-| **Executor / Fiscalizador** | CVM         | Fiscaliza mercado de capitais                             | CMN             |
-| **Executor / Fiscalizador** | SUSEP       | Fiscaliza seguros, previdência aberta e capitalização     | CNSP            |
-| **Executor / Fiscalizador** | PREVIC      | Fiscaliza previdência complementar fechada                | CNPC            |
+| Tipo de Órgão / Instituição | Natureza                 | Função Principal                              | Subordinação            |
+| --------------------------- | ------------------------ | --------------------------------------------- | ----------------------- |
+| **CMN**                     | Normativo                | Define regras e diretrizes                    | Governo Federal         |
+| **BACEN**                   | Executor / Fiscalizador  | Política monetária e emissão de moeda         | CMN                     |
+| **CVM**                     | Executor / Fiscalizador  | Mercado de capitais                           | CMN                     |
+| **SUSEP**                   | Executor / Fiscalizador  | Seguros e previdência aberta                  | CNSP                    |
+| **PREVIC**                  | Executor / Fiscalizador  | Previdência fechada                           | CNPC                    |
+| **ANBIMA**                  | Autorreguladora          | Cria normas complementares, educa e certifica | Instituições Associadas |
+| **Bancos Múltiplos**        | Instituições Financeiras | Oferecem múltiplos produtos e carteiras       | BACEN                   |
+| **Cooperativas de Crédito** | IFs Sem Fins Lucrativos  | Crédito acessível e participação democrática  | BACEN                   |
 
 ---
 
-# ANBIMA
-> Associação BR dos mercados financeiros
-
-* Ela Cria normas COMPLEMENTARES e os bancos que se associam a ela tem que seguir
-      > Ex. Ela exige que os analistas de investimentos tenham CPA-10, e quem for trabalhar nos bancos tem q ter isso
-      > Com isso, a ANBIMA assegura qualidade no serviço
-
-### Função ANBIMA
-
-1. Representa 
-2. Autorregula
-3. Informa
-4. Educa
-
-### Código ANBIMA
-
-1. Código de Distribuição de Produtos de Investimento
-2. Cód de ADM de Recurso de Terceiros
-3. Código de Ética
-4. Código de Certificação
+> 💡 **Dica CPA-20:**
+>
+> * CMN **cria as regras**
+> * BACEN, CVM, SUSEP e PREVIC **executam e fiscalizam**
+> * ANBIMA **autorregula**
+> * Bancos e cooperativas **operam**
 
 ---
-
-# Bancos Múltiplos
-
-* São IFs que oferecem uma diversa gama de produtos e soluções financeiras
-      > Empréstimos, financiamento, leasing.....
-
-### Carteiras Possíveis
-
-1. Carteira Comercial
-    - Abertura de Conta Corrente
-    - Transações Comerciais e Empréstimos
-      
-2. Carteira de Investimento/Desenvolvimento
-    - Se um banco quiser administrar um fundo de Investimento
-    - Desenvolvimento seria Bancos que vão atuar em regiões específicas (Banco do Norderte, Amazonas)
-  
-3. Sociedade de Leasing
-    - Modadildade de Empréstimos/Financiamento
-    - Leasing é mais barator que financiamento, porém a moto fica no nome do banco até vc pagar td
-  
-4. Sociedade de Crédito, Financiamento e Investimento
-    - Atua em crédito, financiamento e Investimento em diversas áreas
-  
-5. Sociedade de Crédito Imobiliário
-    - Abertura de Conta Poupança
-    - Crédito/Financiamento de imóveis
-  
-### Requisitos para ser um Banco Múltiplo
-
-1. Necessário tem pelo menos 2 Carteiras
-2. Uma das carteiras tem que ser *Comercial* ou de *Investimento*
-
----
-
-# Cooperativas de Crédito
-
-* Instituição Sem Fins Lucrativos
-    - Formada por pessoas unidas voluntariamente c objetivos mútuos
-    - O Lucro é repassado aos cliente
-    
-* Crédito Acessível
-    - Oferece serviços financeiros com juros menores
-
-* Gestão Democrática
-    - Os associados são donos e clientes, participando de decisões estratégicas 
-
-### Princípios
-
-- Democracia Participativa
-    Todo associado tem um voto
-
-- Educação Cooperativista
-    Desenvolvimento do senso de poupança 
-
-- Autonomia e Soliedariedade
-    Ajuda mutua e colaboração entre membros
-
-- Desenvolvimento Local
-    Retenção dos recursos financeiros da região, impulsionando o crescimento economico sustentável
-
-[🔝 Voltar ao topo](#💰-sistema-financeiro-nacional-sfn)
-
