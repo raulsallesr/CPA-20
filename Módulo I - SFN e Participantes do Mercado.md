@@ -1,3 +1,32 @@
+# 🎓 Estudo para CPA-20 — Raul Rolim
+---
+
+## 🗂️ Índice Geral
+
+| Módulo | Tema | Status |
+|--------|------|--------|
+| [1️⃣](#💰-módulo-1---sistema-financeiro-nacional-sfn) | Sistema Financeiro Nacional (SFN) | ✅ Concluído |
+| 2️⃣ | Instrumentos de Renda Fixa | ⏳ Em andamento |
+| 3️⃣ | Renda Variável e Fundos | 🔜 A iniciar |
+| 4️⃣ | Derivativos e Produtos Estruturados | 🔜 A iniciar |
+| 5️⃣ | Gestão de Risco e Compliance | 🔜 A iniciar |
+| 6️⃣ | Ética, PLD e Suitability | 🔜 A iniciar |
+
+---
+
+## 📈 Progresso Atual
+
+```mermaid
+pie
+    title Progresso de Estudos CPA-20
+    "Módulo 1 - SFN" : 20
+    "Módulo 2 - Renda Fixa" : 10
+    "Módulo 3 - Renda Variável" : 0
+    "Módulo 4 - Derivativos" : 0
+    "Módulo 5 - Risco / Compliance" : 0
+    "Módulo 6 - Ética e Suitability" : 0
+```
+
 # 💰 Sistema Financeiro Nacional (SFN)
 
 O **SFN** é o conjunto de **instituições e regulamentos** que organizam, fiscalizam e garantem o funcionamento do sistema financeiro brasileiro.  
@@ -142,17 +171,87 @@ A SUSEP verifica se as seguradoras estão realmente cumprindo.
 
 ---
 
-> 💡 **Dica para prova CPA-20:**
-> CMN **cria as normas**, os demais **executam e fiscalizam**.
-> Lembrar:
->
-> * **CMN = cérebro** 🧠
-> * **BACEN = mãos** 🤲
-> * **CVM = olhos da Bolsa** 👁️
-> * **SUSEP = guarda-chuva dos seguros** ☂️
-> * **PREVIC = previdência fechada** 👴
+# ANBIMA
+> Associação BR dos mercados financeiros
+
+* Ela Cria normas COMPLEMENTARES e os bancos que se associam a ela tem que seguir
+      > Ex. Ela exige que os analistas de investimentos tenham CPA-10, e quem for trabalhar nos bancos tem q ter isso
+      > Com isso, a ANBIMA assegura qualidade no serviço
+
+### Função ANBIMA
+
+1. Representa 
+2. Autorregula
+3. Informa
+4. Educa
+
+### Código ANBIMA
+
+1. Código de Distribuição de Produtos de Investimento
+2. Cód de ADM de Recurso de Terceiros
+3. Código de Ética
+4. Código de Certificação
 
 ---
+
+# Bancos Múltiplos
+
+* São IFs que oferecem uma diversa gama de produtos e soluções financeiras
+      > Empréstimos, financiamento, leasing.....
+
+### Carteiras Possíveis
+
+1. Carteira Comercial
+    - Abertura de Conta Corrente
+    - Transações Comerciais e Empréstimos
+      
+2. Carteira de Investimento/Desenvolvimento
+    - Se um banco quiser administrar um fundo de Investimento
+    - Desenvolvimento seria Bancos que vão atuar em regiões específicas (Banco do Norderte, Amazonas)
+  
+3. Sociedade de Leasing
+    - Modadildade de Empréstimos/Financiamento
+    - Leasing é mais barator que financiamento, porém a moto fica no nome do banco até vc pagar td
+  
+4. Sociedade de Crédito, Financiamento e Investimento
+    - Atua em crédito, financiamento e Investimento em diversas áreas
+  
+5. Sociedade de Crédito Imobiliário
+    - Abertura de Conta Poupança
+    - Crédito/Financiamento de imóveis
+  
+### Requisitos para ser um Banco Múltiplo
+
+1. Necessário tem pelo menos 2 Carteiras
+2. Uma das carteiras tem que ser *Comercial* ou de *Investimento*
+
+---
+
+# Cooperativas de Crédito
+
+* Instituição Sem Fins Lucrativos
+    - Formada por pessoas unidas voluntariamente c objetivos mútuos
+    - O Lucro é repassado aos cliente
+    
+* Crédito Acessível
+    - Oferece serviços financeiros com juros menores
+
+* Gestão Democrática
+    - Os associados são donos e clientes, participando de decisões estratégicas 
+
+### Princípios
+
+- Democracia Participativa
+    Todo associado tem um voto
+
+- Educação Cooperativista
+    Desenvolvimento do senso de poupança 
+
+- Autonomia e Soliedariedade
+    Ajuda mutua e colaboração entre membros
+
+- Desenvolvimento Local
+    Retenção dos recursos financeiros da região, impulsionando o crescimento economico sustentável
 
 [🔝 Voltar ao topo](#💰-sistema-financeiro-nacional-sfn)
 
